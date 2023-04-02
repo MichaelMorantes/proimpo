@@ -1,0 +1,1 @@
+UPDATE vendedor SET comision = :comision WHERE id = :id

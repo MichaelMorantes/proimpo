@@ -1,0 +1,1 @@
+SELECT id, username, password FROM cliente WHERE username = :username and password = :password

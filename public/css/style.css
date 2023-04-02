@@ -1,0 +1,26 @@
+/* Define una clase de estilo personalizada llamada "bg-custom" que establece el color de fondo a un gris claro. */
+.bg-custom {
+  background-color: #eaebf5;
+}
+
+/* Define el estilo de todo el cuerpo de la página, estableciendo la fuente, la altura mínima y el diseño de flexión en columna. */
+body {
+  font-family: "Calibri Light";
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Define el estilo del pie de página, estableciendo el margen superior, el color de fondo, el texto centrado, el relleno y el color de fuente. */
+footer {
+  margin-top: auto;
+  background-color: #eaebf5;
+  text-align: center;
+  padding: 3px;
+  color: white;
+}
+
+/* Define una clase de estilo personalizada llamada "bg-custom-blue" que establece el color de fondo a un azul oscuro. */
+.bg-custom-blue {
+  background-color: #102eef;
+}

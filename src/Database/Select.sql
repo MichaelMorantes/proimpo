@@ -1,0 +1,1 @@
+SELECT id,nombre,cargo,inicio_cargo,ventas,clientes_nuevos,observacion,comision FROM vendedor

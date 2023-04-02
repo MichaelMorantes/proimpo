@@ -1,0 +1,1 @@
+INSERT INTO vendedor(nombre, cargo, inicio_cargo, ventas, clientes_nuevos, observacion) VALUES (:nombre, :cargo, :inicio_cargo, :ventas, :clientes_nuevos, :observacion)

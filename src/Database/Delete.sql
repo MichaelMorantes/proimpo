@@ -1,0 +1,1 @@
+DELETE FROM vendedor WHERE id = :id
